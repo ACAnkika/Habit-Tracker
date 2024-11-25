@@ -10,12 +10,10 @@ Progress Tracking: View tracked data for habits over time.
 Responsive Design: Optimized for desktop and mobile users.
 Google Integration: Includes Google Sign-In for convenience.
 
-firebase-habit-tracker/
-├── public/
+firebase-habit-tracker| 
 │   ├── app.js           # Core application logic
 │   ├── index.html       # Main HTML file
 │   ├── style.css        # Styling for the application
-│   ├── dist/            # Transpiled JavaScript (development mode)
 │   └── image/           # Icons and images used in the app
 ├── .firebaserc          # Firebase project configuration
 ├── firebase.json        # Firebase hosting configuration
