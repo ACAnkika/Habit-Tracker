@@ -9,6 +9,7 @@ Habit Management: Add, edit, and delete daily habits.
 Progress Tracking: View tracked data for habits over time.
 Responsive Design: Optimized for desktop and mobile users.
 Google Integration: Includes Google Sign-In for convenience.
+
 firebase-habit-tracker/
 ├── public/
 │   ├── app.js           # Core application logic
@@ -20,6 +21,8 @@ firebase-habit-tracker/
 ├── firebase.json        # Firebase hosting configuration
 ├── package-lock.json    # Lockfile for dependencies
 └── README.md            # Project documentation
+
+
 Future Improvements
 Add support for notifications and reminders.
 Implement analytics to provide habit insights.
