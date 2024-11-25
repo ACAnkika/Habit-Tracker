@@ -1,0 +1,13 @@
+{
+  "name": "firebase-habit-tracker",
+  "version": "1.0.0",
+  "description": "A Firebase-powered habit tracker",
+  "main": "public/app.js",
+  "scripts": {
+    "start": "firebase serve",
+    "build": "firebase deploy"
+  },
+  "dependencies": {
+    "faker": "^5.1.0"
+  }
+}
