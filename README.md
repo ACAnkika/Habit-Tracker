@@ -21,7 +21,6 @@ firebase-habit-tracker|
 └── README.md            # Project documentation
 
 
-Future Improvements\n
-Add support for notifications and reminders.
-Implement analytics to provide habit insights.
-Enhance UI with additional themes.
+Future Improvements :  1. Add support for notifications and reminders.
+                       2. Implement analytics to provide habit insights.
+                       3. Enhance UI with additional themes.
